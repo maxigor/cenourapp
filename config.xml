@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        version="1.0.0"
+        id="br.com.codingpixels.cenourapp">
+
+   <name>
+      Só de Cenoura
+   </name>
+
+   <description>
+      Menu do restaurante Só de Cenoura
+   </description>
+
+   <author href="http://www.codingpixels.com.br"
+           email="contact@codingpixels.com.br">
+           Max Igor
+   </author>
+
+   <icon src="imagens/icon.png" />
+   <gap:splash src="imagens/splash.png" />
+
+   <preference name="orientation" value="portrait" />
+   <preference name="permissions" value="none" />
+   <preference name="fullscreen" value="true" />
+
+   <gap:platform name="ios" />
+</widget>
